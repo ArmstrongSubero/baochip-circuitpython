@@ -8,7 +8,7 @@ This folder is `ports/baochip` of a CircuitPython tree. Nothing outside it is mo
 
 Status is beta. Built on CircuitPython 11.0.0 alpha 3 (commit `b2680c85d4`). Tested on Dabao hardware. 
 
-The port provides 1.45MB fo heap for python and storage is 512KB for files. 
+The port provides 1.45MB for heap for python and storage is 512KB for files. 
 
 For Windows installation download and run the windows installer from the releases and follow the guide in this repository. MAC and Linux users can use thier guide. 
 
